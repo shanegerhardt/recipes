@@ -17,7 +17,8 @@
     "name": "Chicken Burrito Bowl",
     "nutrition": {
       "@type": "NutritionInformation",
-      "calories": "464 calories"
+      "calories": "696 calories",
+      "servingSize": "1 Bowl"
     },
     "prepTime": "PT10M",
     "recipeCategory": [
@@ -29,7 +30,7 @@
       "1/2 cup dry black beans",
       "1 can diced tomatoes (14.5oz)",
       "2 tbsp. Minced garlic",
-      "2 tbsp. Cumin",
+      "1 tbsp. Cumin",
       "1 tbsp. Onion powder",
       "2 tbsp. Chili powder",
       "1.5 cups chicken stock"
@@ -41,14 +42,14 @@
       "Add the chicken back into the Instant Pot, stir well.",
       "Measure and place the romaine lettuce in your bowl. Top with 1/4 of the beans, rice, and shredded chicken. Measure out and sprinkle with cheese, salsa, and avocado if you'd like!"
     ],
-    "recipeYield": "6 servings",
+    "recipeYield": "4 Bowls",
     "review": [
       {
         "@type": "Review",
         "author": "Shane",
         "datePublished": "2017-11-18 16:36:00",
-        "description": "Less Cumin gives a different taste",
-        "name": "Modification",
+        "description": "Good on a tortilla, with chips, or by itself",
+        "name": "Good Base",
         "reviewRating": {
           "@type": "Rating",
           "bestRating": "5",
