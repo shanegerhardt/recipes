@@ -1,0 +1,54 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "0",
+      "ratingCount": "0"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Shane"
+    },
+    "cookTime": "PT10M",
+    "datePublished": "2017-11-18 21:21:00",
+    "description": "TBD",
+    "image": "https://www.shanegerhardt.com/recipes/images/8524071d-8a79-48a9-a00b-b8b1e641cd62.png",
+    "name": "Thai Chicken Rice Bowl",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "TBD",
+      "servingSize": "TBD"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+      "Entree"
+    ],
+    "recipeIngredient": [
+        "2 tbsp. olive oil",
+        "4 chicken breasts",
+        "1 cup uncooked long-grain white rice",
+        "2 cups broth",
+        "1/2 cup sweet chili Thai sauce",
+        "3 tbsp. soy sauce",
+        "1/2 tbsp. fish sauce",
+        "1/2 tbsp. ginger (minced)",
+        "1/2 tbsp. garlic (minced)",
+        "1 tsp. lime juice",
+        "1 tsp. Sriracha or hot sauce"
+    ],
+    "recipeInstructions": [
+        "Select the saute setting on your instant pot and add the olive oil.",
+        "Sear the chicken breasts for 2-3 minutes on either side to seal in their juices. Remove to a glass baking dish (and turn off the instant pot).",
+        "Mix the sweet chili Thai sauce, soy sauce, fish sauce, ginger, garlic, lime juice and sriracha together.",
+        "Pour the sauce over the chicken breasts and stir to combine.",
+        "Place the rice in your Instant Pot and add the chicken and sauce over top.",
+        "Add the broth and secure the lid.",
+        "Select the manual pressure setting (high) and set the timer to 10 minutes. Natural release.",
+        "Shred the chicken with two forks and then mix with the rice before serving.",
+        "Garnish with cilantro, shredded veggies and peanuts. Serve with extra soy sauce to taste."
+    ],
+    "recipeYield": "TBD",
+    "review": [],
+    "totalTime": "PT30M"
+  }
