@@ -17,7 +17,7 @@
     "name": "Chicken Burrito Bowl",
     "nutrition": {
       "@type": "NutritionInformation",
-      "calories": "696 calories",
+      "calories": "233 kcal",
       "servingSize": "1 Bowl"
     },
     "prepTime": "PT10M",
@@ -25,15 +25,15 @@
       "Entree"
     ],
     "recipeIngredient": [
-      "2  frozen chicken breasts",
-      "1/2 cup uncooked brown rice",
-      "1/2 cup dry black beans",
-      "1 can diced tomatoes (14.5oz)",
-      "2 tbsp. Minced garlic",
-      "1 tbsp. Cumin",
-      "1 tbsp. Onion powder",
-      "2 tbsp. Chili powder",
-      "1.5 cups chicken stock"
+      "2  frozen chicken breasts (462 kcal at 140g per breast)",
+      "1/2 cup uncooked brown rice (108 kcal)",
+      "1/2 cup dry black beans (160 kcal)",
+      "1 can diced tomatoes (14.5oz) (87.5 kcal)",
+      "2 tbsp. Minced garlic (10 kcal)",
+      "1 tbsp. Cumin (22 kcal)",
+      "1 tbsp. Onion powder (24 kcal)",
+      "2 tbsp. Chili powder (44 kcal)",
+      "1.5 cups chicken stock (15 kcal)"
     ],
     "recipeInstructions": [
       "Combine all the ingredients in the Instant Pot. Lock the lid into place and seal the pressure valve.",
